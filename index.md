@@ -19,7 +19,7 @@ See the [open issues](https://github.com/TheWNetwork/ggbanbot-issues/issues) for
 ### User Commands
 
 - /help - Show the commands list you have available on Elsa
-- /new|/report - Create a new report. Must be used replying a message
+- /new or /report - Create a new report. Must be used replying a message
 - /view - View latest 10 reports you have sent to Elsa
 - /show {report} - View data about a specific report
 - /me - Show the data the bot have about the user
@@ -29,8 +29,8 @@ See the [open issues](https://github.com/TheWNetwork/ggbanbot-issues/issues) for
 
 ### Moderator Commands
 
-- /viewall|/all - View all open reports
+- /viewall or /all - View all open reports
 - /accept {report} - Accept a report and send it to admins
 - /reject {report} - Reject a report
 - /close {report} - Close a report with no action
-- /warn | /warning {report} - Close a report with a warning
+- /warn or /warning {report} - Close a report with a warning
