@@ -9,13 +9,11 @@ This bot is exclusively for users who should be restricted from all telegram cha
 
 The bot uses a system of trust in the reporting user, reporting well increases trust (and therefore validation speed). Low confidence causes the bot to ignore reports sent by a user
 
-If you have a problem, please send a new issue at https://github.com/TheWNetwork/ggbanbot-issues/issues
-
-## Roadmap
+## Roadmap and Issues
 
 See the [open issues](https://github.com/TheWNetwork/ggbanbot-issues/issues) for a list of proposed features (and known issues).
 
-## Commands
+## Bot Commands
 ### User Commands
 
 - /help - Show the commands list you have available on Elsa
@@ -34,3 +32,7 @@ See the [open issues](https://github.com/TheWNetwork/ggbanbot-issues/issues) for
 - /reject {report} - Reject a report
 - /close {report} - Close a report with no action
 - /warn or /warning {report} - Close a report with a warning
+
+### Disclaimer
+Elsa - Global Banhammer is a bot property of [@TheWNetwork](https://t.me/TheWNetwork). 
+TheWNetwork Telegram is not related with wnetwork.com or Corus Entertainment
