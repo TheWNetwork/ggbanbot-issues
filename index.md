@@ -4,7 +4,6 @@ layout: default
 
 # Elsa - Global Banhammer
 
-![Cover](assets/img/cover.png)
 Elsa - Global Banhammer is a telegram bot that allows users to report and ban for the content they post.
 This bot is exclusively for users who should be restricted from all telegram channels and should not be used for specific channels.
 
