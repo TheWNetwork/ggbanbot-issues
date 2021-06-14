@@ -32,6 +32,7 @@ See the [open issues](https://github.com/TheWNetwork/ggbanbot-issues/issues) for
 - /reject {report} - Reject a report
 - /close {report} - Close a report with no action
 - /warn or /warning {report} - Close a report with a warning
+- /search {user_id} - View all reports about a user
 
 ### Disclaimer
 Elsa - Global Banhammer is a bot property of [@TheWNetwork](https://t.me/TheWNetwork). 
