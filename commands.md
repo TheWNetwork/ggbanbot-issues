@@ -19,3 +19,4 @@ layout: default
 - /accept {report} - Accept a report and send it to admins
 - /reject {report} - Reject a report
 - /warn or /warning {report} - Close a report with a warning
+- /search {id} - View all reports about a user
