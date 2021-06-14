@@ -14,6 +14,8 @@ The bot uses a system of trust in the reporting user, reporting well increases t
 - [Commands](commands.md)
 - See the [open issues](https://github.com/TheWNetwork/ggbanbot-issues/issues) for a list of proposed features (and known issues).
 
+[Invite the bot to your server with this link](https://t.me/ggbanbot)
+
 ### Disclaimer
 Elsa - Global Banhammer is a bot property of [@TheWNetwork](https://t.me/TheWNetwork). 
 TheWNetwork Telegram is not related with wnetwork.com or Corus Entertainment
