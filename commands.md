@@ -13,6 +13,7 @@ layout: default
 - /comment {report} - Add a new comment on an existing report.
 - /about {id} - View info about a user. Can be used with @username, user_id or replying. Only will appear the data if Elsa have info about this user before the command.
 - /stats - View bot statistics
+- /ticket or /issue - View bot service web
 
 ### Moderator Commands
 - /viewall or /all - View all open reports
