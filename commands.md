@@ -19,6 +19,5 @@ layout: default
 - /viewall or /all - View all open reports
 - /accept {report} - Accept a report and send it to admins
 - /reject {report} - Reject a report
-- /warn or /warning {report} - Close a report with a warning
 - /search {id} - View all reports about a user
-- /newid {id} - Create a new report with a single id
+- /newid or /reportid {id} {reason}  - Create a new report with a single id
