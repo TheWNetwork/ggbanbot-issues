@@ -56,10 +56,10 @@ Endpoint: https://api.elsa.yuuu.es/v1/report/query
 > | data.status | string | Current Status of the report | 1 |
 > | data.date | string | Date of the report | 1 |
 > | date.comment | array | | 1 |
-> | date.comment[] | number | Position | 1 |
-> | date.comment[] | date | Date | 1 |
-> | date.comment[] | user | Message Sender | 3 |
-> | date.comment[] | message | Message | 1 |
+> | date.comment[].number | number | Position | 1 |
+> | date.comment[].date | date | Date | 1 |
+> | date.comment[].user | number | Message Sender | 3 |
+> | date.comment[].message | string | Message | 1 |
 
 ### New
 
