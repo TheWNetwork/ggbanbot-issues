@@ -74,6 +74,9 @@ Endpoint: https://api.elsa.yuuu.es/v1/report/new
 > | telegram_id | numeric | User to query | Yes |
 > | reason | string | Reason to Ban | Yes |
 > | author_id | numeric | If your service identify the user who creates the report, send it here | No |
+> | proof[] | array | Array of proofs, list of PNG/JPG Base64 Encoded Images* | No |
+
+* Limits may apply
 
 > Return data:
 >
