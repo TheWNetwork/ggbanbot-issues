@@ -3,14 +3,14 @@ layout: default
 ---
 
 # API
-> - URL: https://api.elsa.yuuu.es/v1/[group]/[endpoint]
+> - URL: https://api-elsa.yuuu.es/v1/[group]/[endpoint]
 > - Format: JSON
 
 ## User
 
 ### Query
 
-Endpoint: https://api.elsa.yuuu.es/v1/user/query
+Endpoint: https://api-elsa.yuuu.es/v1/user/query
 
 > Parameters:
 > 
@@ -36,7 +36,7 @@ Endpoint: https://api.elsa.yuuu.es/v1/user/query
 
 ### Query
 
-Endpoint: https://api.elsa.yuuu.es/v1/report/query
+Endpoint: https://api-elsa.yuuu.es/v1/report/query
 
 > Parameters:
 > 
@@ -63,7 +63,7 @@ Endpoint: https://api.elsa.yuuu.es/v1/report/query
 
 ### New
 
-Endpoint: https://api.elsa.yuuu.es/v1/report/new
+Endpoint: https://api-elsa.yuuu.es/v1/report/new
 
 > Parameters:
 > 
