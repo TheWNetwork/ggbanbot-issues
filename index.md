@@ -12,6 +12,7 @@ The bot uses a system of trust in the reporting user, reporting well increases t
 - [Report Flow](report.md)
 - [Commands](commands.md)
 - See the [open issues](https://github.com/TheWNetwork/ggbanbot-issues/issues) for a list of proposed features (and known issues).
+- [Privacy Policy (In Spanish)](privacidad.md)
 
 [Invite the bot to your server with this link](https://t.me/ggbanbot)
 
