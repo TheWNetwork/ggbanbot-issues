@@ -7,6 +7,8 @@ layout: default
 Elsa - Global Banhammer is a telegram bot that allows users to report and ban for the content they post.
 This bot is exclusively for users who should be restricted from all telegram channels and should not be used for specific channels.
 
+We have two @, @ggbanbot and @elsabanbot
+
 The bot uses a system of trust in the reporting user, reporting well increases trust (and therefore validation speed). Low confidence causes the bot to ignore reports sent by a user
 
 - [Report Flow](report.md)
@@ -14,7 +16,7 @@ The bot uses a system of trust in the reporting user, reporting well increases t
 - See the [open issues](https://github.com/TheWNetwork/ggbanbot-issues/issues) for a list of proposed features (and known issues).
 - [Privacy Policy (In Spanish)](privacidad.md)
 
-[Invite the bot to your server with this link](https://t.me/ggbanbot)
+[Invite the bot to your server with this link](https://t.me/elsabanbot)
 
 ### Disclaimer
 Elsa - Global Banhammer is a bot property of [@TheWNetwork](https://t.me/TheWNetwork). 
