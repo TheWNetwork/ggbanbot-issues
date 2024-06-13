@@ -19,8 +19,8 @@ thinks it's not enough to warn the user.
 - If you think you must provide more data to the report, you can also add more messages using the /comment command
 - Before a mod/admin check the report, you can also close it using /close
 
-To enter the ticketing system, [Enter Here](https://thewnetwork.freshdesk.com/)
+To enter the ticketing system, [Enter Here](https://t.me/twn_supportbot)
 
 # Claim
 You can claim a ban on our ticketing system and filling the "Ban Claim" template 
-To enter the ticketing system, [Enter Here](https://thewnetwork.freshdesk.com/)
+To enter the ticketing system, [Enter Here](https://t.me/twn_supportbot)
