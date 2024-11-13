@@ -9,6 +9,10 @@ This bot is exclusively for users who should be restricted from all telegram cha
 
 We have two @, @ggbanbot and @elsabanbot
 
+The purpoose of the bot is to ban users who share pedophile content. 
+It's AI will detect all the users messages inside a group an ban them if the AI rate its message to high. 
+All bans are manually revised
+
 The bot uses a system of trust in the reporting user, reporting well increases trust (and therefore validation speed). Low confidence causes the bot to ignore reports sent by a user
 
 - [Report Flow](report.md)
