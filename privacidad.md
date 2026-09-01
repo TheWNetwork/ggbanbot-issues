@@ -12,7 +12,7 @@ En cumplimiento del Reglamento (UE) 2016/679 General de Protección de Datos (**
 
 ## 1. Responsable del Tratamiento
 * **Proyecto / Entidad:** Equipo de Desarrollo de Elsa Bot (*Elsa Security Project*)
-* **Contacto de Privacidad:** elsabot@proton.me
+* **Contacto de Privacidad:** `elsabot@proton.me`
 * **Soporte en Telegram:** t.me/twn_supportbot
 
 ---
