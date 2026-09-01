@@ -4,24 +4,24 @@ layout: default
 
 # Elsa - Global Banhammer
 
-Elsa - Global Banhammer is a telegram bot that allows users to report and ban for the content they post.
-This bot is exclusively for users who should be restricted from all telegram channels and should not be used for specific channels.
+Elsa - Global Banhammer es un bot de Telegram que permite a los usuarios reportar y vetar de forma global cuentas según el contenido que publican.
+Este bot está destinado exclusivamente a sancionar a usuarios que deben ser restringidos de la totalidad de grupos y canales de Telegram, por lo que no debe utilizarse para moderaciones específicas de un solo canal.
 
-We have two @, @ggbanbot and @elsabanbot
+Contamos con dos cuentas oficiales: **@ggbanbot** y **@elsabanbot**.
 
-The purpoose of the bot is to ban users who share pedophile content. 
-It's AI will detect all the users messages inside a group an ban them if the AI rate its message to high. 
-All bans are manually revised
+El propósito principal del bot es vetar a usuarios que distribuyen Material de Abuso Sexual Infantil (CSAM).
+Su modelo de inteligencia artificial analiza los mensajes de los usuarios en los grupos donde está presente y los veta si la IA asigna una puntuación de riesgo elevada al mensaje.
+Todos los vetos son revisados manualmente.
 
-The bot uses a system of trust in the reporting user, reporting well increases trust (and therefore validation speed). Low confidence causes the bot to ignore reports sent by a user
+El bot utiliza un sistema de confianza basado en la reputación del usuario que reporta: reportar correctamente aumenta la confianza (y, por tanto, la velocidad de validación). Una baja confianza provoca que el bot ignore los reportes enviados por dicho usuario.
 
-- [Report Flow](report.md)
-- [Commands](commands.md)
-- See the [open issues](https://github.com/TheWNetwork/ggbanbot-issues/issues) for a list of proposed features (and known issues).
-- [Privacy Policy (In Spanish)](privacidad.md)
+- [Flujo de Reporte](report.md)
+- [Comandos](commands.md)
+- Consulta las [incidencias abiertas](https://github.com/TheWNetwork/ggbanbot-issues/issues) para ver la lista de características propuestas (y problemas conocidos).
+- [Política de Privacidad](privacidad.md)
 
-[Invite the bot to your server with this link](https://t.me/elsabanbot)
+[Invita al bot a tu grupo con este enlace](https://t.me/elsabanbot)
 
-### Disclaimer
-Elsa - Global Banhammer is a bot property of [@TheWNetwork](https://t.me/TheWNetwork). 
-TheWNetwork Telegram is not related with wnetwork.com or Corus Entertainment
+### Aviso legal / Exención de responsabilidad
+Elsa - Global Banhammer es un bot propiedad de [@TheWNetwork](https://t.me/TheWNetwork). 
+TheWNetwork Telegram no tiene relación con wnetwork.com ni con Corus Entertainment.
