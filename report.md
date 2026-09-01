@@ -2,27 +2,39 @@
 layout: default
 ---
 
-## Flow
-A small flow diagram to ilustrate how report work
-![Flow Image](assets/img/report-flow.png)
+# Flujo de Reporte
 
-# Reports
-- When a report is created using /report or /new, the process begins as Pending.
-- A moderator then filter the request if can be reported or if it's not a valid report. 
-This will be automatic in the near future when available.
-- An admin then can execute a global ban, warning the user or close the report if
-thinks it's not enough to warn the user.
-- When a user has been warned 5 times (this number can change) the bot will automatically ban the user.
+## Diagrama de Flujo
+A continuación se muestra un breve diagrama que ilustra cómo funciona el sistema de reportes:
 
-## How to Report
-- You can report using the command /report and replying a message or using the ticketing system and the "Ban request" template
-- If you think you must provide more data to the report, you can also add more messages using the /comment command
-- Before a mod/admin check the report, you can also close it using /close
+![Imagen del Flujo](assets/img/report-flow.png)
 
-To enter the ticketing system, [Enter Here](https://t.me/twn_supportbot)
+---
 
-# Claim
-You can claim a ban on our ticketing system and filling the "Ban Claim" template 
-To enter the ticketing system, [Enter Here](https://t.me/twn_supportbot)
+# Funcionamiento de los Reportes
 
-Note: If CSAI (MASI is spanish) is validated, no appealing will be accepted
+- **Estado Inicial:** Cuando se crea un reporte utilizando los comandos `/report` o `/new`, el proceso comienza en estado **Pendiente**.
+- **Filtrado:** Un moderador filtra la solicitud para determinar si es un reporte válido o si debe ser descartado. *(Este proceso se automatizará próximamente mediante IA)*.
+- **Resolución:** Un administrador puede ejecutar un veto global (*global ban*), emitir una advertencia (*warning*) o cerrar el reporte si considera que el contenido no justifica una sanción.
+- **Acumulación de Advertencias:** Cuando un usuario acumula 5 advertencias (este valor puede variar según la configuración), el bot aplicará automáticamente un veto global.
+
+---
+
+## Cómo Enviar un Reporte
+
+1. **Desde un Grupo:** Puedes reportar directamente respondiendo al mensaje del infractor con el comando `/report`.
+2. **Sistema de Tickets:** También puedes abrir una solicitud utilizando el sistema de soporte con la plantilla *"Ban request"*.
+3. **Añadir Información:** Si necesitas aportar más datos o contexto al reporte, puedes adjuntar mensajes adicionales con el comando `/comment`.
+4. **Cancelar Reporte:** Antes de que un moderador o administrador revise la solicitud, puedes cerrarla tú mismo mediante el comando `/close`.
+
+👉 [Acceder al sistema de soporte y tickets](https://t.me/twn_supportbot)
+
+---
+
+# Apelaciones y Reclamaciones
+
+Si has sido vetado, puedes apelar la decisión a través de nuestro sistema de soporte completando la plantilla *"Ban Claim"*.
+
+👉 [Acceder al sistema de soporte para apelar](https://t.me/twn_supportbot)
+
+> **Nota importante:** Si el veto ha sido validado por contenido de **CSAM / MASI** (Material de Abuso Sexual Infantil), **no se aceptará ninguna apelación** bajo ningún concepto.
