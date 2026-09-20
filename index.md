@@ -16,8 +16,6 @@ Todos los vetos son revisados manualmente.
 El bot utiliza un sistema de confianza basado en la reputación del usuario que reporta: reportar correctamente aumenta la confianza (y, por tanto, la velocidad de validación). Una baja confianza provoca que el bot ignore los reportes enviados por dicho usuario.
 
 - [Flujo de Reporte](report.md)
-- [Comandos](commands.md)
-- Consulta las [incidencias abiertas](https://github.com/TheWNetwork/ggbanbot-issues/issues) para ver la lista de características propuestas (y problemas conocidos).
 - [Política de Privacidad](privacidad.md)
 
 [Invita al bot a tu grupo con este enlace](https://t.me/elsabanbot)
